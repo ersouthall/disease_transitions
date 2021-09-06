@@ -9,3 +9,11 @@ Early warning signals (EWS) are a group of statistical time series signals which
 
 The requirements.txt file lists all Python libraries that the notebooks depend on.
 
+### ews_theory_figs.ipynb
+- ipynb notebook using Python
+- Creates figures 1, 2a and 2b
+
+### 
+- ipynb notebook using Python
+- Creates figures 3 and 4, and supplementary figures
+- Data exploration 
