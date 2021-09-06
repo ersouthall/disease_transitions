@@ -13,7 +13,7 @@ The requirements.txt file lists all Python libraries that the notebooks depend o
 - ipynb notebook using Python
 - Creates figures 1, 2a and 2b
 
-### 
+### pertussiss_example.ipynb
 - ipynb notebook using Python
 - Creates figures 3 and 4, and supplementary figures
 - Data exploration 
